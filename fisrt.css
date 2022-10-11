@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding:0;
+    }
+    body {
+        background-image: url("bgdesert.jpg");
+      }
+    h1{
+      background-color: red;
+      color: white;
+    }
+    P{
+        background-image: url("w3school.jpg");
+        background-color: aqua;
+        color: chartreuse;
+        background-repeat: repeat-y;
+        background-position:top center;
+        background-attachment: scroll;
+        }
+   
+   .main{
+       background-image: url('workplace.jpg');
+       background-repeat: no-repeat;
+       background-position:right center;
+       background-color: beige;
+       color: black;
+       width: 500px;
+       height: 500px;
+       text-align: center;
+   }
+   body{
+       background-color: red;
+   }
+   .First{
+       background-color: blue;
+       color: white;
+   }
+   .second{
+       background-color:purple;
+       color:violet;
+   }
+   #para1 {
+text-align: center;
+color: red;
+   }
